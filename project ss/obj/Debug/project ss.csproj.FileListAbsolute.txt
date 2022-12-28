@@ -1,0 +1,69 @@
+D:\project ss\project ss\obj\Debug\project ss.csprojAssemblyReference.cache
+D:\project ss\project ss\obj\Debug\project_ss.Form1.resources
+D:\project ss\project ss\obj\Debug\project_ss.Properties.Resources.resources
+D:\project ss\project ss\obj\Debug\project_ss.studentdatabase.resources
+D:\project ss\project ss\obj\Debug\project ss.csproj.GenerateResource.cache
+D:\project ss\project ss\obj\Debug\project ss.csproj.CoreCompileInputs.cache
+D:\project ss\project ss\bin\Debug\ahmedabdallah.mdf
+D:\project ss\project ss\bin\Debug\ahmedabdallah_log.ldf
+D:\project ss\project ss\bin\Debug\project ss.exe.config
+D:\project ss\project ss\bin\Debug\project ss.exe
+D:\project ss\project ss\bin\Debug\project ss.pdb
+D:\project ss\project ss\obj\Debug\project ss.exe
+D:\project ss\project ss\obj\Debug\project ss.pdb
+D:\project ss\project ss\obj\Debug\project_ss.adminlogin.resources
+D:\project ss\project ss\obj\Debug\project_ss.adminaccess.resources
+D:\project ss\project ss\obj\Debug\project_ss.staffdatabase.resources
+D:\project ss\project ss\obj\Debug\project_ss.details.resources
+D:\project ss\project ss\obj\Debug\project_ss.stafflogin.resources
+D:\project ss\project ss\obj\Debug\project_ss.teacherdatabase.resources
+D:\project ss\project ss\obj\Debug\project_ss.staffaccess.resources
+D:\project ss\project ss\obj\Debug\project_ss.viewstudentdatabase.resources
+D:\project ss\project ss\obj\Debug\project_ss.viewteacherdatabase.resources
+D:\project ss\project ss\obj\Debug\project_ss.rooms.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\bin\Debug\ahmedabdallah.mdf
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\bin\Debug\ahmedabdallah_log.ldf
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\bin\Debug\project ss.exe.config
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\bin\Debug\project ss.exe
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\bin\Debug\project ss.pdb
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project ss.csprojAssemblyReference.cache
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.adminaccess.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.adminlogin.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.details.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.Form1.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.Properties.Resources.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.rooms.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.staffaccess.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.staffdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.stafflogin.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.studentdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.teacherdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.viewstudentdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project_ss.viewteacherdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project ss.csproj.GenerateResource.cache
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project ss.csproj.CoreCompileInputs.cache
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project ss.exe
+C:\Users\mk\OneDrive\Desktop\system\system\project ss\project ss\obj\Debug\project ss.pdb
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\bin\Debug\ahmedabdallah.mdf
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\bin\Debug\ahmedabdallah_log.ldf
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\bin\Debug\project ss.exe.config
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\bin\Debug\project ss.exe
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\bin\Debug\project ss.pdb
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project ss.csprojAssemblyReference.cache
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.adminaccess.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.adminlogin.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.details.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.Form1.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.Properties.Resources.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.rooms.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.staffaccess.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.staffdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.stafflogin.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.studentdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.teacherdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.viewstudentdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project_ss.viewteacherdatabase.resources
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project ss.csproj.GenerateResource.cache
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project ss.csproj.CoreCompileInputs.cache
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project ss.exe
+C:\Users\mk\OneDrive\Desktop\system\project ss\project ss\obj\Debug\project ss.pdb

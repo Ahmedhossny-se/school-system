@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6424F736-27AE-4ED4-9F74-950D2054F221}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>project_ss</RootNamespace>
+    <AssemblyName>project ss</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminaccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminaccess.Designer.cs">
+      <DependentUpon>adminaccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminlogin.Designer.cs">
+      <DependentUpon>adminlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ahmedabdallahDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ahmedabdallahDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="details.Designer.cs">
+      <DependentUpon>details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rooms.Designer.cs">
+      <DependentUpon>rooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffaccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffaccess.Designer.cs">
+      <DependentUpon>staffaccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staffdatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staffdatabase.Designer.cs">
+      <DependentUpon>staffdatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stafflogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stafflogin.Designer.cs">
+      <DependentUpon>stafflogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentdatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentdatabase.Designer.cs">
+      <DependentUpon>studentdatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacherdatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacherdatabase.Designer.cs">
+      <DependentUpon>teacherdatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewstudentdatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewstudentdatabase.Designer.cs">
+      <DependentUpon>viewstudentdatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewteacherdatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewteacherdatabase.Designer.cs">
+      <DependentUpon>viewteacherdatabase.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminaccess.resx">
+      <DependentUpon>adminaccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminlogin.resx">
+      <DependentUpon>adminlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="details.resx">
+      <DependentUpon>details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="rooms.resx">
+      <DependentUpon>rooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffaccess.resx">
+      <DependentUpon>staffaccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staffdatabase.resx">
+      <DependentUpon>staffdatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stafflogin.resx">
+      <DependentUpon>stafflogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentdatabase.resx">
+      <DependentUpon>studentdatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacherdatabase.resx">
+      <DependentUpon>teacherdatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewstudentdatabase.resx">
+      <DependentUpon>viewstudentdatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewteacherdatabase.resx">
+      <DependentUpon>viewteacherdatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ahmedabdallahDataSet.xsc">
+      <DependentUpon>ahmedabdallahDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ahmedabdallahDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ahmedabdallahDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ahmedabdallahDataSet.xss">
+      <DependentUpon>ahmedabdallahDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ahmedabdallah.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ahmedabdallah_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>ahmedabdallah.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
